@@ -36,11 +36,8 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    -  # change to your Twitter homepage
+    # -  # ĐÃ THÊM DẤU # VÀO ĐẦU DÒNG NÀY HOẶC XÓA HẲN DÒNG NÀY ĐI
     - https://github.com/Viet-Dat # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
